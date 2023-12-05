@@ -1,0 +1,19 @@
+
+.App {
+  text-align: center;
+}
+
+.ag-cell-focus,.ag-cell-no-focus{
+  border:none !important;
+}
+.ag-cell:focus{
+  border:none !important;
+  outline: none;
+}
+
+/* ======== Bootstrap Overrides ============== */
+
+.form-label {
+  margin-top: 0.5rem;
+  margin-bottom: 0;
+}
